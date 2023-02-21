@@ -1,0 +1,8 @@
+README.md
+licensekey.py
+setup.py
+rulengine_master.egg-info/PKG-INFO
+rulengine_master.egg-info/SOURCES.txt
+rulengine_master.egg-info/dependency_links.txt
+rulengine_master.egg-info/requires.txt
+rulengine_master.egg-info/top_level.txt

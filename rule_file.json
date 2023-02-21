@@ -1,0 +1,110 @@
+[
+    {
+        "RuleID": "1",
+        "RuleName": "test_data.csv_Id validation",
+        "DataAttribute": "Id",
+        "DataType": "int",
+        "ValidationOperator": "None",
+        "ValueToBeMatch": "",
+        "Order": "1",
+        "DataObject": "table",
+        "DataSource": "test_data.csv",
+        "Sequence": "1"
+    },
+    {
+        "RuleID": "2",
+        "RuleName": "test_data.csv_first_name validation",
+        "DataAttribute": "first_name",
+        "DataType": "string",
+        "ValidationOperator": "None",
+        "ValueToBeMatch": "",
+        "Order": "2",
+        "DataObject": "table",
+        "DataSource": "test_data.csv",
+        "Sequence": "2"
+    },
+    {
+        "RuleID": "3",
+        "RuleName": "test_data.csv_last_name validation",
+        "DataAttribute": "last_name",
+        "DataType": "string",
+        "ValidationOperator": "None",
+        "ValueToBeMatch": "",
+        "Order": "3",
+        "DataObject": "table",
+        "DataSource": "test_data.csv",
+        "Sequence": "3"
+    },
+    {
+        "RuleID": "4",
+        "RuleName": "test_data.csv_company_name validation",
+        "DataAttribute": "company_name",
+        "DataType": "string",
+        "ValidationOperator": "None",
+        "ValueToBeMatch": "",
+        "Order": "4",
+        "DataObject": "table",
+        "DataSource": "test_data.csv",
+        "Sequence": "4"
+    },
+    {
+        "RuleID": "5",
+        "RuleName": "test_data.csv_address validation",
+        "DataAttribute": "address",
+        "DataType": "string",
+        "ValidationOperator": "None",
+        "ValueToBeMatch": "",
+        "Order": "5",
+        "DataObject": "table",
+        "DataSource": "test_data.csv",
+        "Sequence": "5"
+    },
+    {
+        "RuleID": "6",
+        "RuleName": "test_data.csv_city validation",
+        "DataAttribute": "city",
+        "DataType": "string",
+        "ValidationOperator": "None",
+        "ValueToBeMatch": "",
+        "Order": "6",
+        "DataObject": "table",
+        "DataSource": "test_data.csv",
+        "Sequence": "6"
+    },
+    {
+        "RuleID": "7",
+        "RuleName": "test_data.csv_county validation",
+        "DataAttribute": "county",
+        "DataType": "string",
+        "ValidationOperator": "None",
+        "ValueToBeMatch": "",
+        "Order": "7",
+        "DataObject": "table",
+        "DataSource": "test_data.csv",
+        "Sequence": "7"
+    },
+    {
+        "RuleID": "8",
+        "RuleName": "test_data.csv_phone1 validation",
+        "DataAttribute": "phone1",
+        "DataType": "string",
+        "ValidationOperator": "None",
+        "ValueToBeMatch": "",
+        "Order": "8",
+        "DataObject": "table",
+        "DataSource": "test_data.csv",
+        "Sequence": "8"
+    },
+    {
+        "RuleID": "9",
+        "RuleName": "test_data.csv_email validation",
+        "DataAttribute": "email",
+        "DataType": "string",
+        "ValidationOperator": "None",
+        "ValueToBeMatch": "",
+        "Order": "9",
+        "DataObject": "table",
+        "DataSource": "test_data.csv",
+        "Sequence": "9"
+    }
+]
